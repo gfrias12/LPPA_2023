@@ -1,0 +1,54 @@
+
+
+span {
+    color:orange;
+}
+
+.contenedor{
+    width: 700px;
+}
+.cabecera{
+    background-color: burlywood;}
+
+.menu{
+    float: left;
+    width: 150px;
+    background-color: beige;
+}
+
+.contenido{
+    float: left;
+    width: 546px;
+    background-color: beige;
+    font-family: Arial;
+    font-size: medium;
+    border-left: 1px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-left: solid;
+    border-right: solid;
+    border-bottom-color: black;
+    
+    
+   
+}
+
+.pie{
+    clear: both;
+    background-color: yellowgreen;
+
+}
+
+h1{
+    color: green;
+}
+h2{
+    color:white;
+}
+
+p{
+    text-align: center;
+}
+
